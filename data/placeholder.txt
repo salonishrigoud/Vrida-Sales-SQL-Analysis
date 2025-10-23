@@ -1,0 +1,12 @@
+Vrida-Sales-SQL-Analysis/
+│
+├── data/
+│   └── Vrida_Sales_Data.sql
+│
+├── docs/
+│   └── Vrida_SQL_Project_Report.pdf
+│
+├── screenshots/
+│   └── (Add your output screenshots here)
+│
+├── README.md
