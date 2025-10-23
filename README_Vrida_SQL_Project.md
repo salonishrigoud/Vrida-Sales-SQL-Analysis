@@ -92,7 +92,7 @@ However, **increasing purchase frequency and optimizing unsold inventory** can f
 |------|--------------|
 | `Vrida_Sales_Data.sql` | SQL database creation & sample data |
 | `SQL_Practice_Questions_Vrida.pdf` | 30 SQL practice questions |
-| `Vrida_SQL_Project_Report.pdf` | Answers + space for screenshots |
+| `Vrida_SQL_Project_Report.pdf` | Answers  |
 | `README.md` | Project documentation (this file) |
 
 ---
